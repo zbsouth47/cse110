@@ -7,7 +7,7 @@ def display_uppercase(user_string):
 def display_lowercase(user_string):
     print(user_string.lower())
 
-user_message = input('What is your message? ')
+user_message = input('What is your message? ') 
 
 display_regular(user_message)
 display_uppercase(user_message)
